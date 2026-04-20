@@ -1,4 +1,4 @@
-# 👨‍💻 Thalles Henrique Alves
+# Thalles Henrique Alves
 
 
 ## 📊 GitHub Stats
@@ -12,7 +12,6 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=th3ai99la&theme=tokyonight"/>
 </p>
 
----
 
 ## 📫 Contato
 
