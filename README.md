@@ -1,6 +1,6 @@
 # Olá, eu sou o Thalles Henrique Alves! 👋
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor [ou sua profissão/estudante] apaixonado por tecnologia e em constante aprendizado. Aqui você encontra meus projetos e contribuições.
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e em constante aprendizado. Aqui você encontra meus projetos e contribuições.
 
 ## 💻 Tecnologias e Ferramentas
 
