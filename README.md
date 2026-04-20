@@ -1,45 +1,43 @@
-## Thalles Henrique Alves
+# 👨‍💻 Thalles Henrique Alves
 
+---
 
-## Skills
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 Linguagens & Ferramentas
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" />
-</a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</p>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" />
-</a>
+---
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40" />
-</a>
+## 📊 GitHub Stats
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=th3ai99la&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th3ai99la&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python" width="40" height="40" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3ai99la&theme=tokyonight" alt="GitHub streak"/>
+</p>
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-</a>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3ai99la&show_icons=true&locale=en&layout=compact" alt="th3ai99la" /></p>
+## 📫 Contato
 
+- 💼 LinkedIn: https://linkedin.com/in/thalles-h-99310b219
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3ai99la&" alt="th3ai99la" /></p>
+---
+
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
