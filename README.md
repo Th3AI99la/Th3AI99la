@@ -6,13 +6,10 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e em con
 
 ### 💻 Tecnologias e Ferramentas
 
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
-![R](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Git](https://shields.io)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,r,html,css,git" alt="Minhas Habilidades" />
+</div>
 
+---
 
 ⭐ *Se você curtir algum projeto meu, não esquece de deixar uma estrela! Isso me ajuda bastante.*
