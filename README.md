@@ -6,25 +6,13 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e em con
 
 ### 💻 Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="R" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</p>
-
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
+![R](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Git](https://shields.io)
 
 
 ⭐ *Se você curtir algum projeto meu, não esquece de deixar uma estrela! Isso me ajuda bastante.*
