@@ -12,19 +12,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e em con
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=th3ai99la&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-## 🌐 Contato
-
-📫 Sinta-se à vontade para me mandar uma mensagem:
-
-<p align="left">
-  <a href="https://linkedin.com/in/thalles-h-99310b219" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  </p>
 
 ---
 
