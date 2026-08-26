@@ -12,13 +12,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e em con
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=th3ai99la&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3ai99la&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
-
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=th3ai99la&theme=tokyonight" alt="GitHub Streak"/>
 </p>
